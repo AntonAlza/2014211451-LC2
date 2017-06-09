@@ -1,0 +1,51 @@
+C:\Users\Antony\Desktop\Pesentación Final\ClinicaVidaEterna\2014214826-LC2-master\2014214826-SLN - copia\2014214826-PER\bin\Debug\2014214451-PER.dll.config
+C:\Users\Antony\Desktop\Pesentación Final\ClinicaVidaEterna\2014214826-LC2-master\2014214826-SLN - copia\2014214826-PER\bin\Debug\2014214451-PER.dll
+C:\Users\Antony\Desktop\Pesentación Final\ClinicaVidaEterna\2014214826-LC2-master\2014214826-SLN - copia\2014214826-PER\bin\Debug\2014214451-PER.pdb
+C:\Users\Antony\Desktop\Pesentación Final\ClinicaVidaEterna\2014214826-LC2-master\2014214826-SLN - copia\2014214826-PER\bin\Debug\2014214451-ENT.dll
+C:\Users\Antony\Desktop\Pesentación Final\ClinicaVidaEterna\2014214826-LC2-master\2014214826-SLN - copia\2014214826-PER\bin\Debug\EntityFramework.dll
+C:\Users\Antony\Desktop\Pesentación Final\ClinicaVidaEterna\2014214826-LC2-master\2014214826-SLN - copia\2014214826-PER\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Antony\Desktop\Pesentación Final\ClinicaVidaEterna\2014214826-LC2-master\2014214826-SLN - copia\2014214826-PER\bin\Debug\2014214451-ENT.pdb
+C:\Users\Antony\Desktop\Pesentación Final\ClinicaVidaEterna\2014214826-LC2-master\2014214826-SLN - copia\2014214826-PER\bin\Debug\EntityFramework.xml
+C:\Users\Antony\Desktop\Pesentación Final\ClinicaVidaEterna\2014214826-LC2-master\2014214826-SLN - copia\2014214826-PER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Antony\Desktop\Pesentación Final\ClinicaVidaEterna\2014214826-LC2-master\2014214826-SLN - copia\2014214826-PER\obj\Debug\2014214451-PER.csprojResolveAssemblyReference.cache
+C:\Users\Antony\Desktop\Pesentación Final\ClinicaVidaEterna\2014214826-LC2-master\2014214826-SLN - copia\2014214826-PER\obj\Debug\_2014214451_PER.Migrations.InitialModel.resources
+C:\Users\Antony\Desktop\Pesentación Final\ClinicaVidaEterna\2014214826-LC2-master\2014214826-SLN - copia\2014214826-PER\obj\Debug\_2014214451_PER.Migrations.InitialModel2.resources
+C:\Users\Antony\Desktop\Pesentación Final\ClinicaVidaEterna\2014214826-LC2-master\2014214826-SLN - copia\2014214826-PER\obj\Debug\_2014214451_PER.Migrations.InitialModel4.resources
+C:\Users\Antony\Desktop\Pesentación Final\ClinicaVidaEterna\2014214826-LC2-master\2014214826-SLN - copia\2014214826-PER\obj\Debug\_2014214451_PER.Migrations.InitialModel5.resources
+C:\Users\Antony\Desktop\Pesentación Final\ClinicaVidaEterna\2014214826-LC2-master\2014214826-SLN - copia\2014214826-PER\obj\Debug\2014214451-PER.csproj.GenerateResource.Cache
+C:\Users\Antony\Desktop\Pesentación Final\ClinicaVidaEterna\2014214826-LC2-master\2014214826-SLN - copia\2014214826-PER\obj\Debug\2014214451-PER.dll
+C:\Users\Antony\Desktop\Pesentación Final\ClinicaVidaEterna\2014214826-LC2-master\2014214826-SLN - copia\2014214826-PER\obj\Debug\2014214451-PER.pdb
+C:\Users\Antony\Desktop\Pesentación Final\ClinicaVidaEterna\2014214826-LC2-master\2014214826-SLN - copia\2014214451-PER\bin\Debug\2014214451-PER.dll.config
+C:\Users\Antony\Desktop\Pesentación Final\ClinicaVidaEterna\2014214826-LC2-master\2014214826-SLN - copia\2014214451-PER\bin\Debug\2014214451-PER.dll
+C:\Users\Antony\Desktop\Pesentación Final\ClinicaVidaEterna\2014214826-LC2-master\2014214826-SLN - copia\2014214451-PER\bin\Debug\2014214451-PER.pdb
+C:\Users\Antony\Desktop\Pesentación Final\ClinicaVidaEterna\2014214826-LC2-master\2014214826-SLN - copia\2014214451-PER\bin\Debug\2014214451-ENT.dll
+C:\Users\Antony\Desktop\Pesentación Final\ClinicaVidaEterna\2014214826-LC2-master\2014214826-SLN - copia\2014214451-PER\bin\Debug\EntityFramework.dll
+C:\Users\Antony\Desktop\Pesentación Final\ClinicaVidaEterna\2014214826-LC2-master\2014214826-SLN - copia\2014214451-PER\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Antony\Desktop\Pesentación Final\ClinicaVidaEterna\2014214826-LC2-master\2014214826-SLN - copia\2014214451-PER\bin\Debug\2014214451-ENT.pdb
+C:\Users\Antony\Desktop\Pesentación Final\ClinicaVidaEterna\2014214826-LC2-master\2014214826-SLN - copia\2014214451-PER\bin\Debug\EntityFramework.xml
+C:\Users\Antony\Desktop\Pesentación Final\ClinicaVidaEterna\2014214826-LC2-master\2014214826-SLN - copia\2014214451-PER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Antony\Desktop\Pesentación Final\ClinicaVidaEterna\2014214826-LC2-master\2014214826-SLN - copia\2014214451-PER\obj\Debug\2014214451-PER.csprojResolveAssemblyReference.cache
+C:\Users\Antony\Desktop\Pesentación Final\ClinicaVidaEterna\2014214826-LC2-master\2014214826-SLN - copia\2014214451-PER\obj\Debug\_2014214451_PER.Migrations.InitialModel.resources
+C:\Users\Antony\Desktop\Pesentación Final\ClinicaVidaEterna\2014214826-LC2-master\2014214826-SLN - copia\2014214451-PER\obj\Debug\_2014214451_PER.Migrations.InitialModel2.resources
+C:\Users\Antony\Desktop\Pesentación Final\ClinicaVidaEterna\2014214826-LC2-master\2014214826-SLN - copia\2014214451-PER\obj\Debug\_2014214451_PER.Migrations.InitialModel4.resources
+C:\Users\Antony\Desktop\Pesentación Final\ClinicaVidaEterna\2014214826-LC2-master\2014214826-SLN - copia\2014214451-PER\obj\Debug\_2014214451_PER.Migrations.InitialModel5.resources
+C:\Users\Antony\Desktop\Pesentación Final\ClinicaVidaEterna\2014214826-LC2-master\2014214826-SLN - copia\2014214451-PER\obj\Debug\2014214451-PER.csproj.GenerateResource.Cache
+C:\Users\Antony\Desktop\Pesentación Final\ClinicaVidaEterna\2014214826-LC2-master\2014214826-SLN - copia\2014214451-PER\obj\Debug\2014214451-PER.dll
+C:\Users\Antony\Desktop\Pesentación Final\ClinicaVidaEterna\2014214826-LC2-master\2014214826-SLN - copia\2014214451-PER\obj\Debug\2014214451-PER.pdb
+C:\Users\Antony\2014211451-LC2\2014211451-SLN\2014214451-PER\bin\Debug\2014214451-PER.dll.config
+C:\Users\Antony\2014211451-LC2\2014211451-SLN\2014214451-PER\bin\Debug\2014214451-PER.dll
+C:\Users\Antony\2014211451-LC2\2014211451-SLN\2014214451-PER\bin\Debug\2014214451-PER.pdb
+C:\Users\Antony\2014211451-LC2\2014211451-SLN\2014214451-PER\bin\Debug\2014214451-ENT.dll
+C:\Users\Antony\2014211451-LC2\2014211451-SLN\2014214451-PER\bin\Debug\EntityFramework.dll
+C:\Users\Antony\2014211451-LC2\2014211451-SLN\2014214451-PER\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Antony\2014211451-LC2\2014211451-SLN\2014214451-PER\bin\Debug\2014214451-ENT.pdb
+C:\Users\Antony\2014211451-LC2\2014211451-SLN\2014214451-PER\bin\Debug\EntityFramework.xml
+C:\Users\Antony\2014211451-LC2\2014211451-SLN\2014214451-PER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Antony\2014211451-LC2\2014211451-SLN\2014214451-PER\obj\Debug\2014214451-PER.csprojResolveAssemblyReference.cache
+C:\Users\Antony\2014211451-LC2\2014211451-SLN\2014214451-PER\obj\Debug\_2014214451_PER.Migrations.InitialModel.resources
+C:\Users\Antony\2014211451-LC2\2014211451-SLN\2014214451-PER\obj\Debug\_2014214451_PER.Migrations.InitialModel2.resources
+C:\Users\Antony\2014211451-LC2\2014211451-SLN\2014214451-PER\obj\Debug\_2014214451_PER.Migrations.InitialModel4.resources
+C:\Users\Antony\2014211451-LC2\2014211451-SLN\2014214451-PER\obj\Debug\_2014214451_PER.Migrations.InitialModel5.resources
+C:\Users\Antony\2014211451-LC2\2014211451-SLN\2014214451-PER\obj\Debug\2014214451-PER.csproj.GenerateResource.Cache
+C:\Users\Antony\2014211451-LC2\2014211451-SLN\2014214451-PER\obj\Debug\2014214451-PER.dll
+C:\Users\Antony\2014211451-LC2\2014211451-SLN\2014214451-PER\obj\Debug\2014214451-PER.pdb
